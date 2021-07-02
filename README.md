@@ -19,7 +19,7 @@ Projeto desenvolvido durante a semana nlw-togheter organizada pela Rocketseat.
 
 $ git init
 
-$ git clone https://github.com/flavio-sipoli/nlw-togheter-RocketQ.git
+$ git clone https://github.com/flavio-sipoli/nlw6-togheter-RocketQ.git
 
 $ npm install
 
