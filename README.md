@@ -17,6 +17,8 @@ Projeto desenvolvido durante a semana nlw-togheter organizada pela Rocketseat.
 
 ## Instalando o Projeto e rodando local
 
+$ git init
+
 $ git clone https://github.com/flavio-sipoli/nlw-togheter-RocketQ.git
 
 $ npm install
@@ -24,5 +26,7 @@ $ npm install
 $ npm start
 
 Acesse localhost:3000 no seu navegador
+
+Acesse também clicando [aqui](https://flavio-sipoli.github.io/nlw6-togheter-RocketQ/)
 
 
