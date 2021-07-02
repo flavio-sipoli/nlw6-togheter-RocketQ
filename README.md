@@ -27,6 +27,4 @@ $ npm start
 
 Acesse localhost:3000 no seu navegador
 
-Acesse também clicando [aqui](https://flavio-sipoli.github.io/nlw6-togheter-RocketQ/)
-
 
